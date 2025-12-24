@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
 </div>
-
+<!-- BREVIA APRESENTAÇÃO SOBRE EU  -->
 <div align="center">"Seja bem-vindo(a) ao meu pequeno universo."</div>
 <div align="center">"Colecionando momentos e algumas boas histórias."</div>
 <div align="center">"Aqui a gente fala de vida, café e o que mais o dia trouxer."</div>
