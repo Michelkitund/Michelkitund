@@ -1,7 +1,6 @@
 <!-- SVG DO PERFIL -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&center=true&vCenter=true&width=600&lines=Holá!+👋,+Eu+sou+Michel+Silva+Desenvolvedor+Jr;+Bem-vindo+ao+Meu+Perfil!)](https://git.io/typing-svg)
 </div>
 <!--
 **Michelkitund/Michelkitund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
