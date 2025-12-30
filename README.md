@@ -6,9 +6,8 @@
 <!-- BREVIA APRESENTAÇÃO SOBRE EU  -->
 <div align="center">
   <div>"Seja bem-vindo(a) ao meu pequeno universo."</div>
-  <div>"Colecionando momentos e algumas boas histórias."</div>
   <div>"Aqui a gente fala de vida, café e o que mais o dia trouxer."</div>
-  <div>"Desenvolvedor Junior: Transformando café em Error: Stack Overflow e rezando para o git push não quebrar o que eu não toquei."☕️🔥</div>
+  <div>Desenvolvedor Junior: Transformando café em Error: Stack Overflow e rezando para o git push não quebrar o que eu não toquei.☕️</div>
 </div>
 
 <!-- SVG DAS TECNOLOGIAS QUE TENHO  CONHECIMENTO  -->
